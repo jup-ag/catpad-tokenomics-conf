@@ -1,6 +1,7 @@
  {
   "lp": 0.2,
   "lock": 0.8,
+  "min_lp": 0.1,
   "min_liq_usdc_target": 1,
   "vesting_start_time_period_in_seconds": 63072000,
   "vesting_frequency": 2628000,
